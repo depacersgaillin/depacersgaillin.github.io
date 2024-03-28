@@ -1,7 +1,7 @@
 DATA PENDUDUK PESISIR SELATAN
 LEAKED BY PALEMBANG BLACKHAT CYBERCRIME
-AUTHOR : MAFIA BLACKHAT 
- FROM WEBSITES : https://disdukcapil.pesisirselatankab.go.id/
+AUTHOR        : MAFIA BLACKHAT 
+FROM WEBSITES : https://disdukcapil.pesisirselatankab.go.id/
                     
 NO.     NIK        NAMA LENGKAP
 1 1301031103980002 AGUNG AT-THARIQ.M
