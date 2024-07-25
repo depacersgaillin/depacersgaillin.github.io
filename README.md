@@ -1,4 +1,4 @@
 Author : Mafia BlackHat
-Team   : Palembang BlackHat Cybercrime
+Team   : sungai lilin siber tim
 Hacker Script Kiddies
-Hacking Beginner To Expert
+depacer pemula ke pro
